@@ -38,6 +38,10 @@ Once the application is running, you can access it through your web browser. The
 - Add books to the shopping cart and proceed to checkout.
 - Manage user profile, including order history and account settings.
 
+To access the application as an admin user, use the following credentials:
+- Login: admin@gmail.com
+- Password: Admin123*
+
 Feel free to explore the application and test its functionalities.
 
 ## Contributing
@@ -46,4 +50,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project
+This project is licensed under the [MIT License](LICENSE).
